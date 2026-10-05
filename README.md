@@ -254,10 +254,7 @@ ArcFace provides highly discriminative facial embeddings, making recognition mor
 
 ## 👨‍💻 Author
 
-**Gautam Bajaj**
-
-B.Tech Information Technology  
-Netaji Subhas University of Technology (NSUT)
+**Kritarth Upadhyay**
 
 ---
 
